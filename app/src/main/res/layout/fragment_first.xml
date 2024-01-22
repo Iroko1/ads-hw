@@ -48,7 +48,6 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="24dp"
             android:background="@color/buttonBackground"
-            android:backgroundTint="@color/buttonBackground"
             android:text="@string/toast_button_text"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
